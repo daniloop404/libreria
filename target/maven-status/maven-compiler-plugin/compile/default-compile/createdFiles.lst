@@ -1,0 +1,7 @@
+com\quintods\libreria\modelo\Autor.class
+com\quintods\libreria\modelo\Cliente.class
+com\quintods\libreria\modelo\VentaDetalle.class
+com\quintods\libreria\modelo\Editorial.class
+com\quintods\libreria\run\libreria.class
+com\quintods\libreria\modelo\Libro.class
+com\quintods\libreria\modelo\Venta.class
